@@ -1,1 +1,1 @@
-
+let yourName = prompt("Insert Name");
